@@ -23,6 +23,14 @@ To run the code, use this command:
    python run.py --input image.jpg
 ```
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
 ```bash
   npm run deploy
 ```
