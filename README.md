@@ -19,6 +19,10 @@ This repository contains the inference code for **[Project Name]**. This model i
 
 To run the code, use this command:
 ```bash python run.py --input image.jpg```
+
+```bash
+  npm run deploy
+```
 .
 🚀 Installation
 Clone the repository:
