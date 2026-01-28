@@ -24,8 +24,8 @@ To run the code, use this command:
 Clone the repository:
 
 bash
-```git clone https://github.com/[your-username]/[your-repo-name].git
-cd [your-repo-name]``
+```git clone https://github.com/[your-username]/[your-repo-name].git```
+```cd [your-repo-name]```
 Create a virtual environment (optional but recommended):
 
 bash
