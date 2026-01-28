@@ -16,9 +16,11 @@ This repository contains the inference code for **[Project Name]**. This model i
 ├── run.py              # Main execution script  
 └── requirements.txt    # Dependencies  
 
-
+## Run the Model
 To run the code, use this command:
-```bash python run.py --input image.jpg```
+```bash
+   python run.py --input image.jpg
+```
 
 ```bash
   npm run deploy
